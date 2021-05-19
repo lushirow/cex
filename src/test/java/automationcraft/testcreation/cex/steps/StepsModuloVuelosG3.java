@@ -1,4 +1,4 @@
-package automationcraft.testcreation.jetSmartG3.steps;
+package automationcraft.testcreation.cex.steps;
 
 import automationcraft.engine.selenium.DriverFactory;
 import automationcraft.testcreation.jetSmartG3.pages.*;

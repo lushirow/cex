@@ -1,4 +1,4 @@
-package automationcraft.testcreation.jetSmartG3.pages;
+package automationcraft.testcreation.cex.pages;
 
 import bctsoft.g3.pageobject.base.SeleniumBase;
 import org.openqa.selenium.By;
