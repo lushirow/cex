@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Bootcamp Tsoft">
+    <test name="Regresion de Web JetSmart">
+        <classes>
+            <class name="bctsoft.g3.testcases.HTJS_01"></class>
+            <class name="bctsoft.g3.testcases.HTJS_02"></class>
+            <class name="bctsoft.g3.testcases.HTJS_03"></class>
+            <class name="bctsoft.g3.testcases.TTJS_01"></class>
+            <class name="bctsoft.g3.testcases.TTJS_02"></class>
+            <class name="bctsoft.g3.testcases.TTJS_03"></class>
+            <class name="bctsoft.g3.testcases.VTJS_01"></class>
+            <class name="bctsoft.g3.testcases.VTJS_02"></class>
+            <class name="bctsoft.g3.testcases.VTJS_03"></class>
+        </classes>
+    </test>
+</suite>
