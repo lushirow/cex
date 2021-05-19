@@ -14,6 +14,7 @@ public class AutomationPracticeHomePage extends SeleniumBase {
     private By btnSignIn = By.xpath("//a[contains(text(),'Sign in')]");
 
     public void clickButtonSignIn() {
+        wait(btnSignIn);
         click(btnSignIn);
     }
 }
